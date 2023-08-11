@@ -1,0 +1,8 @@
+1. jmeter -n -t (location of jmeter script) -l (location of result file where it will be generated)
+
+   jmeter -n -t D:\Testing\Jmeter\JDBC.jmx -l D:\Testing\Jmeter\CSV Files\JDBC.csv
+
+2. jmeter -n -t (location of jmeter script) -l (location of result file) -e -o (location of output folder)
+
+   jmeter -n -t D:\Testing\Jmeter\Aiub_Portal.jmx -l D:\Testing\Jmeter\CSV_Files\Portal.csv -e -o D:\Testing\Jmeter\Report
+   jmeter -g D:\Testing\Jmeter\Organizer.jmx -o D:\Testing\Jmeter\Report
