@@ -1,0 +1,35 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691734458411,19654,login,200,OK,Thread Group 1-1,text,true,,1108430,9012,1,1,https://the-internet.herokuapp.com/login,1331,0,1020
+1691734458411,1331,login-0,200,OK,Thread Group 1-1,text,true,,3212,524,1,1,https://the-internet.herokuapp.com/login,1331,0,1020
+1691734459809,4482,login-1,200,OK,Thread Group 1-1,text,true,,132733,1056,1,1,https://the-internet.herokuapp.com/js/vendor/298279967.js,1263,0,949
+1691734459809,18256,login-2,200,OK,Thread Group 1-1,text,true,,353678,1045,1,1,https://the-internet.herokuapp.com/css/app.css,1306,0,955
+1691734459809,1644,login-3,200,OK,Thread Group 1-1,text,true,,29030,1054,1,1,https://the-internet.herokuapp.com/css/font-awesome.css,1272,0,950
+1691734459809,4766,login-4,200,OK,Thread Group 1-1,text,true,,96254,1064,1,1,https://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,1857,0,969
+1691734459809,6745,login-5,200,OK,Thread Group 1-1,text,true,,470894,1073,1,1,https://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,1257,0,943
+1691734459809,1402,login-6,200,OK,Thread Group 1-1,text,true,,13012,1061,1,1,https://the-internet.herokuapp.com/js/foundation/foundation.js,1402,0,0
+1691734461216,470,login-7,200,OK,Thread Group 1-1,text,true,,1688,1068,1,1,https://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,469,0,0
+1691734461686,418,login-8,200,OK,Thread Group 1-1,bin,true,,7929,1067,1,1,https://the-internet.herokuapp.com/img/forkme_right_green_007200.png,418,0,0
+1691734507193,1298,authenticate,200,OK,Thread Group 1-1,text,true,,5484,11955,1,1,https://the-internet.herokuapp.com/secure,327,0,0
+1691734507193,327,authenticate-0,303,See Other,Thread Group 1-1,text,true,,994,1165,1,1,https://the-internet.herokuapp.com/authenticate,327,0,0
+1691734507521,313,authenticate-1,200,OK,Thread Group 1-1,text,true,,2850,1190,1,1,https://the-internet.herokuapp.com/secure,313,0,0
+1691734507870,320,authenticate-2,304,Not Modified,Thread Group 1-1,,true,,205,1195,1,1,https://the-internet.herokuapp.com/js/vendor/298279967.js,0,0,0
+1691734507870,340,authenticate-3,304,Not Modified,Thread Group 1-1,,true,,205,1184,1,1,https://the-internet.herokuapp.com/css/app.css,0,0,0
+1691734507873,327,authenticate-4,304,Not Modified,Thread Group 1-1,,true,,205,1193,1,1,https://the-internet.herokuapp.com/css/font-awesome.css,0,0,0
+1691734507873,324,authenticate-5,304,Not Modified,Thread Group 1-1,,true,,205,1203,1,1,https://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,0,0,0
+1691734507873,327,authenticate-6,304,Not Modified,Thread Group 1-1,,true,,205,1212,1,1,https://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,0,0,0
+1691734507870,310,authenticate-7,304,Not Modified,Thread Group 1-1,,true,,205,1200,1,1,https://the-internet.herokuapp.com/js/foundation/foundation.js,0,0,0
+1691734508181,310,authenticate-8,304,Not Modified,Thread Group 1-1,,true,,205,1207,1,1,https://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,0,0,0
+1691734508190,300,authenticate-9,304,Not Modified,Thread Group 1-1,,true,,205,1206,1,1,https://the-internet.herokuapp.com/img/forkme_right_green_007200.png,0,0,0
+1691734527254,6189,logout,200,OK,Thread Group 1-1,text,true,,5996,11080,1,1,https://the-internet.herokuapp.com/login,3383,0,3082
+1691734527254,3383,logout-0,302,Found,Thread Group 1-1,text,true,,961,1080,1,1,https://the-internet.herokuapp.com/logout,3383,0,3082
+1691734530638,301,logout-1,200,OK,Thread Group 1-1,text,true,,3395,1112,1,1,https://the-internet.herokuapp.com/login,301,0,0
+1691734530954,1302,logout-2,304,Not Modified,Thread Group 1-1,,true,,205,1106,1,1,https://the-internet.herokuapp.com/js/vendor/298279967.js,0,0,978
+1691734530951,303,logout-3,304,Not Modified,Thread Group 1-1,,true,,205,1095,1,1,https://the-internet.herokuapp.com/css/app.css,0,0,0
+1691734530952,2269,logout-4,304,Not Modified,Thread Group 1-1,,true,,205,1104,1,1,https://the-internet.herokuapp.com/css/font-awesome.css,0,0,1946
+1691734530951,1343,logout-5,304,Not Modified,Thread Group 1-1,,true,,205,1114,1,1,https://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,0,0,994
+1691734530951,1292,logout-6,304,Not Modified,Thread Group 1-1,,true,,205,1123,1,1,https://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,0,0,973
+1691734530952,2491,logout-7,304,Not Modified,Thread Group 1-1,,true,,205,1111,1,1,https://the-internet.herokuapp.com/js/foundation/foundation.js,0,0,2184
+1691734531255,303,logout-8,304,Not Modified,Thread Group 1-1,,true,,205,1118,1,1,https://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,0,0,0
+1691734531558,939,logout-9,304,Not Modified,Thread Group 1-1,,true,,205,1117,1,1,https://the-internet.herokuapp.com/img/forkme_right_green_007200.png,0,0,0
+1691734458410,27141,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,1119910,32047,1,1,null,5041,47893,4102
+1691734533445,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,497,0,1,1,null,0,0,0
