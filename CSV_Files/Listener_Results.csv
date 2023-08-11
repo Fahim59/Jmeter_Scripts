@@ -1,0 +1,15 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691732527104,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',RDCD 1-1,text,false,Test failed: message expected to contain /OK/,874,0,1,2,null,0,0,0
+1691732527106,135,HTTP Request ERA,200,OK,ERA 2-1,text,true,,15104,149,1,1,http://hr.erainfotechbd.com:8888/hr/f?p=114:LOGIN:::::,125,0,19
+1691732527437,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',RDCD 1-2,text,false,Test failed: message expected to contain /OK/,874,0,1,1,null,0,0,0
+1691732527770,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',RDCD 1-3,text,false,Test failed: message expected to contain /OK/,874,0,1,1,null,0,0,0
+1691732571079,120,HTTP Request ERA,200,OK,ERA 2-1,text,true,,15104,149,1,2,http://hr.erainfotechbd.com:8888/hr/f?p=114:LOGIN:::::,108,0,17
+1691732571078,143,HTTP Request RDCD,200,OK,RDCD 1-1,text,true,,13239,282,1,1,https://stage-dashboard.rdcd.gov.bd/admin/login,34,0,20
+1691732571078,34,HTTP Request RDCD-0,301,Moved Permanently,RDCD 1-1,text,true,,409,141,1,1,http://stage-dashboard.rdcd.gov.bd/admin/login,34,0,20
+1691732571114,107,HTTP Request RDCD-1,200,OK,RDCD 1-1,text,true,,12830,141,1,1,https://stage-dashboard.rdcd.gov.bd/admin/login,107,0,32
+1691732571413,300,HTTP Request RDCD,200,OK,RDCD 1-2,text,true,,13239,282,1,1,https://stage-dashboard.rdcd.gov.bd/admin/login,86,0,43
+1691732571413,86,HTTP Request RDCD-0,301,Moved Permanently,RDCD 1-2,text,true,,409,141,1,1,http://stage-dashboard.rdcd.gov.bd/admin/login,86,0,43
+1691732571500,213,HTTP Request RDCD-1,200,OK,RDCD 1-2,text,true,,12830,141,1,1,https://stage-dashboard.rdcd.gov.bd/admin/login,213,0,53
+1691732571744,121,HTTP Request RDCD,200,OK,RDCD 1-3,text,true,,13239,282,1,1,https://stage-dashboard.rdcd.gov.bd/admin/login,41,0,33
+1691732571744,41,HTTP Request RDCD-0,301,Moved Permanently,RDCD 1-3,text,true,,409,141,1,1,http://stage-dashboard.rdcd.gov.bd/admin/login,41,0,33
+1691732571787,78,HTTP Request RDCD-1,200,OK,RDCD 1-3,text,true,,12830,141,1,1,https://stage-dashboard.rdcd.gov.bd/admin/login,78,0,24
