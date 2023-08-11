@@ -96,8 +96,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename"></stringProp>
-        <stringProp name="TestPlan.comments">E:\Testing\Jmeter\Jmeter Files\CSV_Files\Processor.csv</stringProp>
+        <stringProp name="filename">E:\Testing\Jmeter\Jmeter Files\CSV_Files\Processor.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="true">

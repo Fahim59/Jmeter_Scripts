@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691734187135,71,ERA HR Module,200,OK,ERA 1-1,text,true,,15104,149,1,1,http://hr.erainfotechbd.com:8888/hr/f?p=114:LOGIN:::::,71,0,5
+1691734187468,72,ERA HR Module,200,OK,ERA 1-2,text,true,,15104,149,1,1,http://hr.erainfotechbd.com:8888/hr/f?p=114:LOGIN:::::,72,0,11
+1691734187803,70,ERA HR Module,200,OK,ERA 1-3,text,true,,15108,149,1,1,http://hr.erainfotechbd.com:8888/hr/f?p=114:LOGIN:::::,67,0,9
